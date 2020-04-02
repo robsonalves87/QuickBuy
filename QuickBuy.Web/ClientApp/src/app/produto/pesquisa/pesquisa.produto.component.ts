@@ -12,7 +12,7 @@ export class PesquisaProdutoComponent implements OnInit{
 
   public produtos: Produto[];
 
-    ngOnInit(): void {
+  ngOnInit(): void {
         
   }
 
